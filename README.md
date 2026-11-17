@@ -24,15 +24,16 @@ It covers Linnaeus' two kingdoms, Haeckel's three kingdoms, Copeland's four king
 
 <table>
 <tr>
-<td width="50%"><img src="assets/Screenshots/Bio%20Deverticus%20Regnatrix.png" alt="Home"><br><sub><b>1 · Meet Diverticus Regnatrix</b></sub></td>
+<td width="50%"><img src="assets/Screenshots/Bio%20Deverticus%20Regnatrix.png" alt="Home"><br><sub><b>1 · Meet Regnatrix</b></sub></td>
 <td width="50%"><img src="assets/Screenshots/Tree%20Of%20Life.png" alt="Tree of life"><br><sub><b>2 · Tree of Life</b></sub></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/Screenshots/Compare%20%26%20Contrast.png" alt="Phylogeny"><br><sub><b>3 · Compare and Contrast</b></sub></td>
+<td width="50%"><img src="assets/Screenshots/Compare%20%26%20Contrast.png" alt="Phylogeny"><br><sub><b>3 · Easy Comparison</b></sub></td>
 <td width="50%"><img src="assets/Screenshots/Explore%20Organism.png" alt="Group card"><br><sub><b>4 · Explore Organisms</b></sub></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/Screenshots/Memorable%20Flow%20Charts.png" alt="Diagram"><br><sub><b>5 · Memorable Flow Charts</b></sub></td>
+<td width="50%"><img src="assets/Screenshots/Memorable%20Flow%20Charts.png" alt="Diagram"><br><sub><b>5 ·
+Mind Maps</b></sub></td>
 <td width="50%"><img src="assets/Screenshots/Chronological%20Slider.png" alt="Chronological slider"><br><sub><b>6 · Chronological Slider</b></sub></td>
 </tr>
 </table>

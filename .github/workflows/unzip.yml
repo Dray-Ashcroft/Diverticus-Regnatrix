@@ -15,16 +15,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Replace repo contents with the uploaded zips
+      # Unpack every uploaded zip on top of the existing files, then remove the zips.
+      # Nothing else in the repo is deleted, so zips can be uploaded one at a time.
+      - name: Merge uploaded zips into the repo
         run: |
           shopt -s nullglob
           zips=(*.zip)
           [ ${#zips[@]} -eq 0 ] && { echo "No zips"; exit 0; }
-          mkdir /tmp/z && mv "${zips[@]}" /tmp/z/
-          git ls-files | grep -v '^\.github/' | xargs -r git rm -q --
-          for z in /tmp/z/*.zip; do unzip -o -q "$z" -d .; done
+          for z in "${zips[@]}"; do unzip -o -q "$z" -d .; done
+          git rm -q --cached -- "${zips[@]}"
+          rm -f -- "${zips[@]}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Restructure repo from uploaded zips" || echo "Nothing to commit"
+          git commit -m "Merge uploaded zips into repo" || echo "Nothing to commit"
           git push

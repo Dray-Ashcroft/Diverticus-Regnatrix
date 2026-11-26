@@ -61,6 +61,8 @@ It covers Linnaeus' two kingdoms, Haeckel's three kingdoms, Copeland's four king
 </tr>
 </table>
 
+<p align="center"><img src="assets/collage.png" alt="Diverticus Regnatrix overview" width="100%"></p>
+
 ## Views
 
 | View | What You See | Tap to Explore |

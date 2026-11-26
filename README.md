@@ -31,20 +31,7 @@ It covers Linnaeus' two kingdoms, Haeckel's three kingdoms, Copeland's four king
 
 ## Screenshots
 
-<table>
-<tr>
-<td width="50%"><img src="assets/screenshots/01-meet-regnatrix.png" alt="Home"><br><sub><b>1 · Meet Regnatrix</b></sub></td>
-<td width="50%"><img src="assets/screenshots/02-tree-of-life.png" alt="Tree of life"><br><sub><b>2 · Tree of Life</b></sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/screenshots/03-easy-comparison.png" alt="Phylogeny"><br><sub><b>3 · Easy Comparison</b></sub></td>
-<td width="50%"><img src="assets/screenshots/04-explore-organisms.png" alt="Group card"><br><sub><b>4 · Explore Organisms</b></sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/screenshots/05-mind-maps.png" alt="Diagram"><br><sub><b>5 · Mind Maps</b></sub></td>
-<td width="50%"><img src="assets/screenshots/06-chronological-slider.png" alt="Chronological slider"><br><sub><b>6 · Chronological Slider</b></sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/collage.png" alt="Diverticus Regnatrix: six views of the app" width="100%"></p>
 
 ## Gallery
 
@@ -60,8 +47,6 @@ It covers Linnaeus' two kingdoms, Haeckel's three kingdoms, Copeland's four king
 <td width="33%" align="center"><img src="assets/illustrations/methanobacterium.png" alt="Methanobacterium"><br><sub><b>Methanobacterium</b></sub></td>
 </tr>
 </table>
-
-<p align="center"><img src="assets/collage.png" alt="Diverticus Regnatrix overview" width="100%"></p>
 
 ## Views
 

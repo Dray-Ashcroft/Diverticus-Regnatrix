@@ -6,7 +6,7 @@
 
 <p align="center"><i>Biological Classification Engine · From Two Kingdoms to Five</i></p>
 
-<p align="center"><b><a href="https://YOUR-SITE.pages.dev">Explore Diverticus</a></b></p>
+<p align="center"><b><a href="https://diverticus-regnatrix.stark-kodex.workers.dev">Explore Diverticus</a></b></p>
 
 <p align="center">
   <a href="#about">About</a> ·
